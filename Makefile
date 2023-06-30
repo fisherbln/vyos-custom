@@ -1,5 +1,5 @@
 VYOS_MODULAR_USER ?= fisherbln
-VYOS_MODULAR_BRANCH ?= dev
+VYOS_MODULAR_BRANCH ?= main
 
 venv:
 	python3 -m venv venv
