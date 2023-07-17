@@ -2,13 +2,13 @@
 name: fisherbln
 vyos_branch: sagitta
 modules:
-  - type: git
-    url: https://github.com/jack-broadway/vyos-module-tailscale.git
-    version: current
+  #- type: git
+  #  url: https://github.com/jack-broadway/vyos-module-tailscale.git
+  #  version: current
   - type: git
     url: https://github.com/Ramblurr/vyos-module-gitops.git
     version: saggita
-  - type: git
-    url: https://github.com/Ramblurr/vyos-module-mft.git
-    version: saggita
+  #- type: git
+  #  url: https://github.com/Ramblurr/vyos-module-mft.git
+  #  version: saggita
 ...
